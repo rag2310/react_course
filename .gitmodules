@@ -1,0 +1,6 @@
+[submodule "03-counter-app"]
+	path = 03-counter-app
+	url = https://github.com/rag2310/03-counter-app.git
+[submodule "02-intro-javascript"]
+	path = 02-intro-javascript
+	url = https://github.com/rag2310/02-intro-javascript.git
