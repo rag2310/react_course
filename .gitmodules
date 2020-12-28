@@ -4,3 +4,6 @@
 [submodule "02-intro-javascript"]
 	path = 02-intro-javascript
 	url = https://github.com/rag2310/02-intro-javascript.git
+[submodule "04-gif-expert-app"]
+	path = 04-gif-expert-app
+	url = https://github.com/rag2310/04-gif-expert-app.git
