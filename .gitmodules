@@ -7,3 +7,6 @@
 [submodule "04-gif-expert-app"]
 	path = 04-gif-expert-app
 	url = https://github.com/rag2310/04-gif-expert-app.git
+[submodule "05-hook-app"]
+	path = 05-hook-app
+	url = https://github.com/rag2310/05-hook-app
